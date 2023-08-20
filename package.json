@@ -1,0 +1,26 @@
+{
+  "name": "student_result_publishing_system-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "backend": "node server.js",
+    "dev": "concurrently \"npm run backend\" \"npm start --prefix frontend\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.3",
+    "d3": "^7.8.5",
+    "html2pdf.js": "^0.10.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
