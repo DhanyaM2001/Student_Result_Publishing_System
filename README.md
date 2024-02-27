@@ -1,7 +1,5 @@
 # Student_Result_Publishing_System
 
-# Student_Result_Publishing_System
-
 >The primary function of the Student Result Publishing System is to publish semester-wise academic results to students accurately and promptly. Students can securely log in to the
 system and view their subject-wise grades, cumulative GPA, and other academic details.Admins, on the other hand, can manage the system and control the publication of results. They have the privilege to upload result sheets, manage student details, and handle any result-relatedtasks. The system ensures real-time availability of results, enabling students to access their
 performance feedback as soon as it is published.
